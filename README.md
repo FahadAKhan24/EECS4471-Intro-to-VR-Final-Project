@@ -40,25 +40,25 @@ Rock Kit: Hold Tab and then press the subsequent drum key
 
 Subsequent drum keys:
 
-Hit low tom : slow speed = Press 1 on keyboard
-                     medium speed = Press 2 on keyboard
-                     fast speed = Press 3 on keyboard
+Hit low tom : { slow speed = Press 1 on keyboard }
+                     { medium speed = Press 2 on keyboard}
+                     { fast speed = Press 3 on keyboard }
 
-Hit crash     : slow speed = Press 4 
-     (&bass)    medium speed = Press 5 
-                      fast speed = Press 6 
+Hit crash     : { slow speed = Press 4 } 
+                 { medium speed = Press 5 } 
+                      { fast speed = Press 6 } 
 
-Hit snare    :  slow speed = Press 7 
-                     medium speed = Press 8 
-                     fast speed = Press 9 
+Hit snare    :  { slow speed = Press 7 } 
+                    { medium speed = Press 8 } 
+                    { fast speed = Press 9 } 
 
-Hit ride        : slow speed = Press Q 
-                     medium speed = Press W
-                     fast speed = Press E 
+Hit ride        : { slow speed = Press Q } 
+                    { medium speed = Press W }
+                    { fast speed = Press E } 
 
-Hit mid tom : slow speed = Press I 
-                     medium speed = Press O 
-                     fast speed = Press P 
+Hit mid tom : { slow speed = Press I } 
+                    { medium speed = Press O } 
+                    { fast speed = Press P } 
 
 Hit hi hat     : slow speed = Press [
                      medium speed = Press ]
